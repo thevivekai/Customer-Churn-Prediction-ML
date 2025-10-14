@@ -46,10 +46,11 @@ The project was executed following a standard data science pipeline:
       * Categorical features were converted into a numerical format using One-Hot Encoding.
       * Numerical features were scaled using `StandardScaler` to ensure that all features contribute equally to the model's performance.
 4.  **Model Building & Training:** Several classification algorithms were trained on the preprocessed data:
+      * Linear Regression
       * Logistic Regression
-      * Support Vector Classifier (SVC)
+      * Multiple Logistic Regression
+      * Decision Tree Classifier
       * Random Forest Classifier
-      * Gradient Boosting Classifier
 5.  **Model Evaluation:** Each model's performance was evaluated based on its accuracy score. The best-performing model was then selected for a more in-depth analysis using a classification report and a confusion matrix.
 
 -----
@@ -73,16 +74,16 @@ The models were evaluated based on their accuracy on the test set. The Gradient 
 
 | Model | Accuracy Score |
 | :--- | :---: |
-| Logistic Regression | 81.69% |
-| Support Vector Classifier | 81.41% |
-| Random Forest Classifier | 79.28% |
-| **Gradient Boosting Classifier** | **81.97%** |
+| Logistic Regression | 74.6% |
+| **Multiple Logistic Regression** | **79.7%** |
+| Decision Tree Classifier | 76.4% |
+| Random Forest Classifier | 76.2% |
 
 ### Best Model: Gradient Boosting Classifier
 
-The Gradient Boosting model provided the best balance of precision and recall for predicting churn.
+The Multiple Logistic Regression model provided the best balance of precision and recall for predicting churn.
 
-  * **Overall Test Accuracy:** **81.97%**
+  * **Overall Test Accuracy:** **79.7%**
 
 #### Classification Report
 
@@ -93,7 +94,7 @@ The Gradient Boosting model provided the best balance of precision and recall fo
 
 #### Confusion Matrix
 
-The confusion matrix for the Gradient Boosting model shows its effectiveness in correctly identifying both churning and non-churning customers.
+The confusion matrix for the Multiple Logistic Regression model shows its effectiveness in correctly identifying both churning and non-churning customers.
 
 -----
 

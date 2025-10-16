@@ -8,15 +8,14 @@ This repository contains a comprehensive machine learning project focused on pre
 
 ## 📜 Table of Contents
 
-  * [Project Objective](https://www.google.com/search?q=%23%F0%9F%8E%AF-project-objective)
-  * [Dataset Information](https://www.google.com/search?q=%23%F0%9F%93%8A-dataset-information)
-  * [Methodology](https://www.google.com/search?q=%23-methodology)
-  * [Exploratory Data Analysis (EDA) Highlights](https://www.google.com/search?q=%23-exploratory-data-analysis-eda-highlights)
-  * [Model Performance & Results](https://www.google.com/search?q=%23-model-performance--results)
-  * [How to Run This Project](https://www.google.com/search?q=%23-how-to-run-this-project)
-  * [File Descriptions](https://www.google.com/search?q=%23-file-descriptions)
-  * [Conclusion](https://www.google.com/search?q=%23-conclusion)
-  * [Contact](https://www.google.com/search?q=%23-contact)
+* [Project Objective](#project-objective)
+* [Dataset Information](#dataset-information)
+* [Methodology](#methodology)
+* [Exploratory Data Analysis (EDA) Highlights](#exploratory-data-analysis-eda-highlights)
+* [Model Performance & Results](#model-performance--results)
+* [How To Run This Project](#how-to-run-this-project)
+* [File Descriptions](#file-descriptions)
+* [Conclusion](#conclusion)
 
 -----
 

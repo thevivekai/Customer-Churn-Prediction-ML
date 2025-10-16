@@ -19,13 +19,13 @@ This repository contains a comprehensive machine learning project focused on pre
 
 -----
 
-## 🎯 Project Objective
+## Project Objective
 
 The primary goal of this project is to develop and evaluate several machine learning models to accurately predict customer churn. The project involves a deep dive into exploratory data analysis (EDA) to uncover insights, followed by rigorous data preprocessing, model training, and performance comparison to identify the most effective algorithm for this task.
 
 -----
 
-## 📊 Dataset Information
+## Dataset Information
 
 The project uses a `Customer_Churn.csv` dataset which contains various attributes of telecommunication customers.
 
@@ -35,7 +35,7 @@ The project uses a `Customer_Churn.csv` dataset which contains various attribute
 
 -----
 
-## ⚙️ Methodology
+## Methodology
 
 The project was executed following a standard data science pipeline:
 
@@ -54,7 +54,7 @@ The project was executed following a standard data science pipeline:
 
 -----
 
-## 💡 Exploratory Data Analysis (EDA) Highlights
+## Exploratory Data Analysis (EDA) Highlights
 
 The EDA revealed several key insights into the factors influencing customer churn.
 
@@ -65,7 +65,7 @@ The EDA revealed several key insights into the factors influencing customer chur
 
 -----
 
-## 🏆 Model Performance & Results
+## Model Performance & Results
 
 The models were evaluated based on their accuracy on the test set. The Gradient Boosting Classifier emerged as the top-performing model.
 
@@ -97,7 +97,7 @@ The confusion matrix for the Multiple Logistic Regression model shows its effect
 
 -----
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 To run this project on your local machine, follow these steps:
 
@@ -119,7 +119,7 @@ To run this project on your local machine, follow these steps:
 
 -----
 
-## 📁 File Descriptions
+## File Descriptions
 
   * **`P2_ML_Customer_Churn.ipynb`**: The main Jupyter Notebook containing the complete Python code for data analysis, model training, and evaluation.
   * **`P2_ML_Customer_Churn.html`**: An HTML export of the notebook for easy viewing in any web browser.
@@ -129,13 +129,13 @@ To run this project on your local machine, follow these steps:
 
 -----
 
-## ✨ Conclusion
+## Conclusion
 
 This project successfully demonstrates the application of various machine learning algorithms to predict customer churn. The **Gradient Boosting Classifier** was identified as the most effective model, achieving an accuracy of nearly **82%**. The insights gained from the exploratory data analysis highlight key business areas (like contract types and add-on services) that the telecommunications company could focus on to improve customer retention.
 
 -----
 
-## 📧 Contact
+## Contact
 
 **Vivek Prakash Upreti**
 

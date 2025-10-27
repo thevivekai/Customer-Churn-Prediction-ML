@@ -4,6 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thevivekai/)
 
+
+<img width="989" height="590" alt="model_comparision" src="https://github.com/user-attachments/assets/c30e80c3-5e50-48ab-a2fd-f65ccd73ff97" />
+
+
+
 This repository contains a comprehensive machine learning project focused on predicting customer churn for a telecommunications company. By analyzing customer data, this project aims to build a reliable classification model that can identify customers who are likely to stop using the company's services. This is a classic and highly valuable business problem, as retaining existing customers is often more cost-effective than acquiring new ones.
 
 ## 📜 Table of Contents
